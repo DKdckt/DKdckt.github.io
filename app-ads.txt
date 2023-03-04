@@ -2,6 +2,7 @@ google.com, pub-3236092515912969, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5002981, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
+applovin.com, f02a4d88a0cb97b15f763c1dcf9512b2, DIRECT
 ironsrc.com, 214265, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER

@@ -3,7 +3,17 @@ google.com, pub-3236092515912969, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5002981, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
+# applovin
 applovin.com, f02a4d88a0cb97b15f763c1dcf9512b2, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+
 ironsrc.com, 214265, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER

@@ -1,8 +1,9 @@
 facebook.com, 237869842139394, RESELLER, c3e20eee3f780d68
 google.com, pub-3236092515912969, DIRECT, f08c47fec0942fa0
+facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
+# pangle
 pangleglobal.com, 5002981, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
-facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
 
 # applovin
 applovin.com, f02a4d88a0cb97b15f763c1dcf9512b2, DIRECT

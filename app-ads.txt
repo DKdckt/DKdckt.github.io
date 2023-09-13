@@ -3,6 +3,7 @@ google.com, pub-3236092515912969, DIRECT, f08c47fec0942fa0
 pangleglobal.com, 5002981, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 facebook.com, 391747685650430, DIRECT, c3e20eee3f780d68
+
 # applovin
 applovin.com, f02a4d88a0cb97b15f763c1dcf9512b2, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
@@ -14,6 +15,7 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 
+# ironsource
 ironsrc.com, 214265, Direct
 adbility-media.com, 187, RESELLER
 advertising.com, 8693, RESELLER
@@ -102,6 +104,7 @@ media.net, 8CUO7P3WK, RESELLER
 App-stock.com,256917,RESELLER
 videoheroes.tv, 212550, RESELLER, 064bc410192443d8
 
+# adcolony
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
@@ -228,6 +231,7 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 
+# mintegral
 mintegral.com, 17130, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
@@ -633,6 +637,7 @@ yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 consumable.com, 2001470, RESELLER, aefcd3d2f45b5070
 
+# vungle
 vungle.com, 57a9b1c58a987ad67e000050, DIRECT, c107d686becd2d77
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176

@@ -384,9 +384,9 @@ ssp.e-volution.ai, AJxF6R118a9M6CaTvK, RESELLER
 loopme.com, 11367, RESELLER, 6c8d5f95897a5a3b
 inmobi.com, 30f3830cfef249a3ad46ee1a0bba7af3, RESELLER, 83e75a7ae333ca9d
 myfeature.tv, UvnXhUMZHRvKfRk52QZy, RESELLER
-video.unrulymedia.com,  1876793108340587286, RESELLER
+video.unrulymedia.com, 1876793108340587286, RESELLER
 inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
-omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER 
+omnifytv.com, 05096ffe925c11eda1eb0242ac120002, RESELLER
 inmobi.com, 662fb54f5d15471a80b4ddaa467e84b0, RESELLER, 83e75a7ae333ca9d
 bematterfull.com, 562499, RESELLER
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
@@ -475,6 +475,19 @@ opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 xandr.com, 15426, RESELLER, f5ab79cb980f11d1
+smaato.com, 1100055341, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+rubiconproject.com, 24600, RESELLER, 0bfd66d529a55807
+sharethrough.com, iBAzay96, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 156177, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156425, RESELLER, 5d62403b186f2ace
+inmobi.com, 55049d2e109d4ac1820ca1432dda4e13, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 23800006c42e4a739966c05ca0ac4854, RESELLER, 83e75a7ae333ca9d
+openx.com, 559792583, RESELLER, 6a698e2ec38604c6
+loopme.com, 11694, RESELLER, 6c8d5f95897a5a3b
+conversantmedia.com, 100611, RESELLER, 03113cd04947736d
+triplelift.com, 11000, RESELLER, 6c33edb13117fd86
+algorix.co, 604550, RESELLER, 5b394c12fea27a1d
 
 # vungle
 vungle.com, 57a9b1c58a987ad67e000050, DIRECT, c107d686becd2d77

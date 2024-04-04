@@ -1404,7 +1404,7 @@ video.unrulymedia.com, 322585001, RESELLER
 adiiix.com, 3de5db9, RESELLER
 fromthetop.io, 65529, RESELLER
 
-#DT Resellers as of March 21, 2024
+#DTResellersasofMarch212024
 fyber.com,220991,DIRECT
 acd.op.hicloud.com,PUB_HW_1003,RESELLER
 adform.com,2688,RESELLER,9f5210a2f0999e32

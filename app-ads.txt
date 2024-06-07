@@ -105,6 +105,8 @@ zmaticoo.com, 5135195, RESELLER
 rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
 playdigo.com, 1993, RESELLER
 sharethrough.com, f0oqso2j, RESELLER, d53b998a7bd4ecd2
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
 
 #amazon
 aps.amazon.com,dc576185-1937-4471-8f99-af126e778f95,DIRECT

@@ -140,6 +140,8 @@ video.unrulymedia.com, 324806554, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 6111915185540403805, RESELLER
 videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 webeyemob.com, 80029, RESELLER
+zmaticoo.com, 5135704, RESELLER
+mars.media, 1010442, RESELLER, 8624339f102fb076
 
 #amazon
 aps.amazon.com,dc576185-1937-4471-8f99-af126e778f95,DIRECT

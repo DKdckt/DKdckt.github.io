@@ -1583,7 +1583,8 @@ pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 1058378980, RESELLER
 thunder-monetize.com, 1421531493, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
-rubiconproject.com, 2606
+rubiconproject.com, 26064, RESELLER, 0bfd66d529a55807
+smaato.com, 1100050739, RESELLER, 07bcf65f187117b4 
 
 # adcolony
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176

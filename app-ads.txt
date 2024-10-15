@@ -143,6 +143,7 @@ videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 webeyemob.com, 80029, RESELLER
 zmaticoo.com, 5135704, RESELLER
 mars.media, 1010442, RESELLER, 8624339f102fb076
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
 
 #amazon
 aps.amazon.com,dc576185-1937-4471-8f99-af126e778f95,DIRECT

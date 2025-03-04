@@ -1964,6 +1964,15 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 inmobi.com, 3af76ebd8ed44d04b01d827c6f3bb5b4, RESELLER, 83e75a7ae333ca9d
+sonobi.com, 45dd948092, reseller, d1a215d9eb5aee9e
+iion.io, 10171, reseller, 013a29748465dc57
+adingenious.com, 75036, reseller
+freewheel.tv, 1599106, reseller
+carbonatix.com, 141073554, reseller
+freewheel.tv, 1599109, reseller
+growzee.io, cd9d1950-1f84-4645-80f4-bdbaa23548a0, reseller
+openx.com, 539214772, reseller, 6a698e2ec38604c6
+theaudiencestreet.com, tas-703, reseller
 
 #DTResellersasofMarch212024
 fyber.com,220991,DIRECT

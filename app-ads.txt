@@ -173,6 +173,58 @@ thunder-monetize.com, 8221217003, RESELLER
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 openx.com, 541017750, RESELLER, 6a698e2ec38604c6
 tradplusad.com, b3fca24bd11c1242, RESELLER
+33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+aceex.io, 1926, RESELLER, b1cf3c874d5c6682
+adiiix.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+admanmedia.com, 2037, RESELLER
+app-stock.com, 384491, RESELLER
+appnexus.com, 1354, RESELLER
+appnexus.com, 16244, RESELLER
+appnexus.com, 17234, RESELLER
+aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+axonix.com, 59107, RESELLER, bc385f2b4a87b721
+betweendigital.com, 45329, RESELLER
+bidmachine.io, 162, RESELLER
+blueseasx.com, 203613, RESELLER, 7998eac5087f6110
+brightcom.com, 23120, RESELLER
+carbonatix.com, 14840966, RESELLER
+castify.ai, 1295184, RESELLER
+connectad.io, 453, RESELLER, 85ac85a30c93b3e5
+contextweb.com, 562818, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 1601388, RESELLER
+google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
+grouprvn.com, 420212011, RESELLER
+improvedigital.com, 1408, RESELLER
+improvedigital.com, 1664, RESELLER
+inmobi.com, 7798aa742d014cd79627bb67ec431379, RESELLER, 83e75a7ae333ca9d
+inmobi.com, ef083d721beb4c0f8776ced01e262c03, RESELLER, 83e75a7ae333ca9d
+krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
+lacunads.com, LCb555b3bc8667a09a, RESELLER
+lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
+lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
+mango.mp, 323120, RESELLER
+media.net, 8CU813E2H, RESELLER
+opera.com, pub6650235485952, RESELLER, 55a0c5fd61378de3
+richaudience.com, q3KyMB36ue, RESELLER
+risecodes.com, 66bca72035bff70001caa46f, RESELLER
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4839, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4998, RESELLER
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
+start.io, 150505487, RESELLER
+themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
+ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+ushareit.com, LCb555b3bc8667a09a, RESELLER
+video.unrulymedia.com, 436487936, RESELLER
+visoon.de, 64393, RESELLER
+xandr.com, 3318, RESELLER
+xandr.com, 8916, RESELLER
 
 #amazon
 aps.amazon.com,dc576185-1937-4471-8f99-af126e778f95,DIRECT
